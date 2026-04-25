@@ -11,12 +11,9 @@ Hexn is an open-source search project for building your own independent, privacy
 
 ## Live Demo
 
-[![Deploy on Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-Deployed-F38020?logo=cloudflare&logoColor=white)](https://hexnsearch.alihdtech.workers.dev)
+[![Deploy on Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-Deployed-F38020?logo=cloudflare&logoColor=white)](https://hexnsearch.alihdtech.workers.dev) Hexn v1 deployed on Cloudflare : [[hexnsearch.alihdtech.workers.dev](https://hexnsearch.alihdtech.workers.dev/)].
 
-Hexn v1 deployed on Cloudflare : [[hexnsearch.alihdtech.workers.dev](https://hexnsearch.alihdtech.workers.dev/)].
-
-[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel&logoColor=white)](https://hexn.vercel.app)  
-Hexn v2 on Vercel : [hexn.vercel.app](https://hexn.vercel.app).
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel&logoColor=white)](https://hexn.vercel.app) Hexn v2 on Vercel : [hexn.vercel.app](https://hexn.vercel.app).
 
 ## Overview
 
