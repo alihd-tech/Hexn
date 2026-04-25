@@ -9,6 +9,14 @@ Hexn is an open-source search project for building your own independent, privacy
 
 ![Index Screenshot](./public/screenshot.png)
 
+## Live Demo
+
+[![Deploy on Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-Deployed-F38020?logo=cloudflare&logoColor=white)](https://hexnsearch.alihdtech.workers.dev) 
+Hexn v1 deployed on Cloudflare : [[hexnsearch.alihdtech.workers.dev](https://hexnsearch.alihdtech.workers.dev/)].
+
+[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel&logoColor=white)](https://hexn.vercel.app)  
+Hexn v2 on Vercel : [hexn.vercel.app](https://hexn.vercel.app).
+
 ## Overview
 
 - Nuxt 3, Vue 3, Tailwind CSS, DaisyUI
@@ -108,12 +116,5 @@ flowchart LR
 
 This project is licensed under the MIT License.
 
-## Deployments
-
 ![Overview Screenshot](./public/readme.png)
 
-[![Deploy on Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-Deployed-F38020?logo=cloudflare&logoColor=white)](https://hexn.ali-hdii-20b.workers.dev)  
-Hexn v1 deployed on Cloudflare : [hexn.ali-hdii-20b.workers.dev](https://hexn.ali-hdii-20b.workers.dev).
-
-[![Deploy on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel&logoColor=white)](https://hexn.vercel.app)  
-Hexn on Vercel : [hexn.vercel.app](https://hexn.vercel.app).
