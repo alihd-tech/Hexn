@@ -1,0 +1,418 @@
+{
+  "searchResults": [
+    {
+      "id": "1",
+      "domain": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/",
+      "favicon": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "title": "Wikipedia - The Free Encyclopedia",
+      "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers. Learn about any topic with comprehensive, reliable information.",
+      "date": "2 days ago",
+      "category": "reference",
+      "tags": ["encyclopedia", "knowledge", "education", "reference"],
+      "sitelinks": [
+        {
+          "title": "Featured Articles",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:Featured_articles",
+          "description": "High-quality articles recognized by the Wikipedia community"
+        },
+        {
+          "title": "Random Article",
+          "url": "https://en.wikipedia.org/wiki/Special:Random",
+          "description": "Discover something new with a random Wikipedia article"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "domain": "stackoverflow.com",
+      "url": "https://stackoverflow.com/",
+      "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+      "title": "Stack Overflow - Where Developers Learn & Share",
+      "description": "Stack Overflow is the largest online community for programmers to learn, share their knowledge, and build their careers. Get answers to coding questions.",
+      "date": "1 day ago",
+      "category": "programming",
+      "tags": ["programming", "coding", "development", "questions", "answers"],
+      "sitelinks": [
+        {
+          "title": "Questions",
+          "url": "https://stackoverflow.com/questions",
+          "description": "Browse programming questions and answers"
+        },
+        {
+          "title": "Jobs",
+          "url": "https://stackoverflow.com/jobs",
+          "description": "Find developer jobs and career opportunities"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "domain": "github.com",
+      "url": "https://github.com/",
+      "favicon": "https://github.com/favicon.ico",
+      "title": "GitHub - Where the world builds software",
+      "description": "GitHub is where over 100 million developers shape the future of software, together. Contribute to the open source community, manage Git repositories.",
+      "date": "3 hours ago",
+      "category": "development",
+      "tags": ["git", "repositories", "open source", "collaboration", "code"],
+      "sitelinks": [
+        {
+          "title": "Explore",
+          "url": "https://github.com/explore",
+          "description": "Discover interesting projects and repositories"
+        },
+        {
+          "title": "Trending",
+          "url": "https://github.com/trending",
+          "description": "See what the GitHub community is most excited about"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "domain": "medium.com",
+      "url": "https://medium.com/",
+      "favicon": "https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+      "title": "Medium - Where good ideas find you",
+      "description": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share their writing on any topic.",
+      "date": "5 hours ago",
+      "category": "publishing",
+      "tags": ["articles", "writing", "publishing", "stories", "ideas"],
+      "sitelinks": [
+        {
+          "title": "Top Stories",
+          "url": "https://medium.com/",
+          "description": "Read the most popular stories on Medium"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/",
+      "favicon": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+      "title": "Reddit - Dive into anything",
+      "description": "Reddit is a network of communities where people can dive into their interests, hobbies and passions. Join communities and discussions on any topic.",
+      "date": "8 hours ago",
+      "category": "social",
+      "tags": ["community", "discussions", "social", "forums", "news"],
+      "sitelinks": [
+        {
+          "title": "Popular",
+          "url": "https://www.reddit.com/r/popular/",
+          "description": "See what's trending across all of Reddit"
+        },
+        {
+          "title": "All",
+          "url": "https://www.reddit.com/r/all/",
+          "description": "Browse all Reddit communities"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/",
+      "favicon": "https://www.youtube.com/s/desktop/f506bd45/img/favicon_32x32.png",
+      "title": "YouTube - Broadcast Yourself",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "date": "12 hours ago",
+      "category": "video",
+      "tags": ["videos", "streaming", "entertainment", "music", "tutorials"],
+      "sitelinks": [
+        {
+          "title": "Trending",
+          "url": "https://www.youtube.com/feed/trending",
+          "description": "See what's trending on YouTube"
+        },
+        {
+          "title": "Music",
+          "url": "https://music.youtube.com/",
+          "description": "Listen to music on YouTube Music"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "domain": "docs.nuxtjs.org",
+      "url": "https://nuxt.com/docs",
+      "favicon": "https://nuxt.com/icon.png",
+      "title": "Nuxt.js Documentation - The Intuitive Vue Framework",
+      "description": "Nuxt is an open source framework that makes web development intuitive and powerful. Create performant and production-grade full-stack web apps.",
+      "date": "1 day ago",
+      "category": "documentation",
+      "tags": ["nuxt", "vue", "framework", "documentation", "web development"],
+      "sitelinks": [
+        {
+          "title": "Getting Started",
+          "url": "https://nuxt.com/docs/getting-started",
+          "description": "Learn how to get started with Nuxt"
+        },
+        {
+          "title": "Examples",
+          "url": "https://nuxt.com/docs/examples",
+          "description": "Explore Nuxt examples and templates"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "domain": "tailwindcss.com",
+      "url": "https://tailwindcss.com/",
+      "favicon": "https://tailwindcss.com/favicons/favicon-32x32.png",
+      "title": "Tailwind CSS - Rapidly build modern websites",
+      "description": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
+      "date": "2 hours ago",
+      "category": "css",
+      "tags": ["css", "framework", "utility", "design", "styling"],
+      "sitelinks": [
+        {
+          "title": "Documentation",
+          "url": "https://tailwindcss.com/docs",
+          "description": "Complete Tailwind CSS documentation"
+        },
+        {
+          "title": "Components",
+          "url": "https://tailwindui.com/",
+          "description": "Beautiful UI components built with Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "domain": "developer.mozilla.org",
+      "url": "https://developer.mozilla.org/",
+      "favicon": "https://developer.mozilla.org/favicon-48x48.cbbd161b5e05.png",
+      "title": "MDN Web Docs - Resources for developers",
+      "description": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.",
+      "date": "6 hours ago",
+      "category": "documentation",
+      "tags": ["web development", "html", "css", "javascript", "documentation"],
+      "sitelinks": [
+        {
+          "title": "HTML Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+          "description": "Complete HTML element reference"
+        },
+        {
+          "title": "CSS Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "description": "Complete CSS property reference"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "domain": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com/",
+      "favicon": "https://news.ycombinator.com/favicon.ico",
+      "title": "Hacker News - Social news website",
+      "description": "Hacker News is a social news website focusing on computer science and entrepreneurship. Submit and discuss stories about technology and startups.",
+      "date": "4 hours ago",
+      "category": "news",
+      "tags": ["technology", "startups", "programming", "news", "discussion"],
+      "sitelinks": [
+        {
+          "title": "New",
+          "url": "https://news.ycombinator.com/newest",
+          "description": "Latest submissions to Hacker News"
+        },
+        {
+          "title": "Ask HN",
+          "url": "https://news.ycombinator.com/ask",
+          "description": "Questions and discussions from the community"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "domain": "openai.com",
+      "url": "https://openai.com/",
+      "favicon": "https://openai.com/favicon.ico",
+      "title": "OpenAI - Artificial Intelligence Research",
+      "description": "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.",
+      "date": "1 hour ago",
+      "category": "ai",
+      "tags": ["artificial intelligence", "machine learning", "research", "technology", "innovation"],
+      "sitelinks": [
+        {
+          "title": "ChatGPT",
+          "url": "https://chat.openai.com/",
+          "description": "Conversational AI assistant powered by GPT"
+        },
+        {
+          "title": "API",
+          "url": "https://platform.openai.com/",
+          "description": "Build AI-powered applications with OpenAI's API"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "domain": "anthropic.com",
+      "url": "https://www.anthropic.com/",
+      "favicon": "https://www.anthropic.com/favicon.ico",
+      "title": "Anthropic - AI Safety Research",
+      "description": "Anthropic is an AI safety company focused on developing safe, beneficial AI systems. We conduct research to make AI systems more helpful, harmless, and honest.",
+      "date": "3 hours ago",
+      "category": "ai",
+      "tags": ["ai safety", "research", "claude", "artificial intelligence", "ethics"],
+      "sitelinks": [
+        {
+          "title": "Claude",
+          "url": "https://claude.ai/",
+          "description": "Constitutional AI assistant by Anthropic"
+        },
+        {
+          "title": "Research",
+          "url": "https://www.anthropic.com/research",
+          "description": "Latest AI safety research and publications"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "description": "All search results"
+    },
+    {
+      "id": "reference",
+      "name": "Reference",
+      "description": "Reference materials and encyclopedias"
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "description": "Programming and development resources"
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "description": "Software development tools and platforms"
+    },
+    {
+      "id": "documentation",
+      "name": "Documentation",
+      "description": "Technical documentation and guides"
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "description": "News and current events"
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "description": "Social media and community platforms"
+    },
+    {
+      "id": "video",
+      "name": "Video",
+      "description": "Video content and streaming platforms"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "description": "Artificial intelligence and machine learning"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Web Store",
+      "icon": "🌐",
+      "color": "#4285f4",
+      "url": "https://chrome.google.com/webstore"
+    },
+    {
+      "name": "YouTube",
+      "icon": "▶️",
+      "color": "#ff0000",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "GitHub",
+      "icon": "💻",
+      "color": "#333333",
+      "url": "https://github.com"
+    },
+    {
+      "name": "Stack Overflow",
+      "icon": "📚",
+      "color": "#f48024",
+      "url": "https://stackoverflow.com"
+    },
+    {
+      "name": "ChatGPT",
+      "icon": "🤖",
+      "color": "#10a37f",
+      "url": "https://chat.openai.com"
+    }
+  ],
+  "ui": {
+    "searchPlaceholder": "Search or type a URL",
+    "searchButton": "Hexn Search",
+    "luckyButton": "I'm Feeling Lucky",
+    "signIn": "Sign in",
+    "about": "About",
+    "store": "Store",
+    "gmail": "Gmail",
+    "images": "Images",
+    "apps": "Apps",
+    "aiAssistant": "AI Assistant",
+    "askAI": "Ask AI",
+    "trending": "Trending",
+    "suggestions": "Suggestions",
+    "multiLanguage": "Multi-language",
+    "instantAnswers": "Instant answers",
+    "privacyFirst": "Privacy first",
+    "smartLearning": "Smart learning",
+    "addShortcut": "Add",
+    "madeWithLove": "Made with ❤️ by Hexn",
+    "advertising": "Advertising",
+    "business": "Business",
+    "howSearchWorks": "How Search works",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "settings": "Settings",
+    "resultsFor": "About {count} results ({time}s)",
+    "updated": "Updated {time}",
+    "noResults": "No results found",
+    "noResultsDesc": "Try adjusting your search terms or filters.",
+    "askAIHelp": "Ask AI for help",
+    "previous": "Previous",
+    "next": "Next",
+    "refineSearch": "Refine search results",
+    "summarizeResults": "Summarize key findings",
+    "findRelated": "Find related topics",
+    "save": "Save",
+    "share": "Share",
+    "more": "More",
+    "voiceSearch": "Voice search",
+    "imageSearch": "Image search",
+    "clear": "Clear",
+    "cancel": "Cancel",
+    "saveChanges": "Save Changes",
+    "resetToDefault": "Reset to Default",
+    "themeSettings": "Theme Settings",
+    "colorScheme": "Color Scheme",
+    "backgroundStyle": "Background Style",
+    "animationSpeed": "Animation Speed",
+    "slow": "Slow",
+    "fast": "Fast",
+    "displaySettings": "Display Settings",
+    "compactMode": "Compact Mode",
+    "compactModeDesc": "Reduce spacing and element sizes",
+    "particleEffects": "Particle Effects",
+    "particleEffectsDesc": "Show animated background particles",
+    "reduceMotion": "Reduce Motion",
+    "reduceMotionDesc": "Minimize animations for accessibility",
+    "searchSettings": "Search Settings",
+    "resultsPerPage": "Results per page",
+    "results": "results",
+    "autoComplete": "Auto-complete",
+    "autoCompleteDesc": "Show search suggestions while typing"
+  }
+}
